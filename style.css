@@ -1,0 +1,18 @@
+.flexbox{
+ display:flex;
+ justify-content: space-evenly;
+ 
+}
+.box{
+    background-color:pink;
+    border:1px solid;
+}
+.hello{
+    background-color: aqua;
+    border:1px solid;
+    
+}
+.simmi{
+    border:1px solid;
+    background-color: blue;
+}
